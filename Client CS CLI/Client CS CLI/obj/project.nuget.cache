@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q6keL2t+mfduNoqrNE8WGuOBAojc9kvL7izmMD43OMWmgT6nOc2QCZk6jlc07sLuN8ntWBAcJFgLX4Ks2Ch1Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Larisa\\Desktop\\Институт\\3 семестр\\# Курсовая работа ЯП\\Messenger\\Client CS CLI\\Client CS CLI\\ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Larisa\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Larisa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Larisa\\.nuget\\packages\\nstack.core\\0.14.0\\nstack.core.0.14.0.nupkg.sha512",
+    "C:\\Users\\Larisa\\.nuget\\packages\\terminal.gui\\0.90.3\\terminal.gui.0.90.3.nupkg.sha512"
+  ],
+  "logs": []
+}
